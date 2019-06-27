@@ -1,0 +1,13 @@
+np.sum, np.nansum(NaN안전모드) : 요소의 합 계산
+np.prod, np.nanprod(NaN안전모드) : 요소의 곱 계산
+np.mean, np.nanmean((NaN안전모드) : 요소의 평균 계산
+np.std, np.nanstd(NaN안전모드) : 요소의 표준편차 계산
+np.var, np.nanvar(NaN안전모드) : 요소의 분산 게산
+np.min, np.nanmin(NaN안전모드) : 최솟값 계산
+np.max, np.nanmax(NaN안전모드) : 최댓값 계산
+np.argmin, np.nanargmin(NaN안전모드) : 최솟값의 인덱스 찾기
+np.argmax, np.nanargmax(NaN안전모드) : 최댓값의 인덱스 찾기
+np.median, np.nanmedian(NaN안전모드) : 요소의 중앙값 계산
+np.percentile, np.nanpercentile(NaN안전모드) : 요소의 순위 기반 백분위 수 계산
+np.any : 요소 중 참이 있는지 검사
+np.all : 모든 요소가 참인지 검사
