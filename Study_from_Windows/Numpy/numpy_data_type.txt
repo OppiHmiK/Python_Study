@@ -21,3 +21,12 @@ float64 : 배정밀 부동 소수점 (부호비트, 11비트 지수, 53비트 �
 complex_ : complex128의 약칭
 complex64 : 복소수, 두 개의 32비트 부동 소수점으로 표현
 complex128 : 복소수, 두 개의 64비트 부동 소수점으로 표현
+
+'b' / np.dtype('b') : 바이트
+'i' / np.dtype('i4') / np.int32 : 부호가 있는 정수
+'u' / np.dtype('u1') / np.uint8 : 부호가 없는 정수
+'f' / np.dtype('f8') / np.float64 : 부동소수점
+'c' / np.dtype('c16') / np.complex128 : 복소수 부동소수점
+'S','a' / np.dtype('S5') : 문자열
+'U' / np.dtype('U') / np.str_ : 유니코드 문자열
+'V' / np.dtype('V') / np.void  : 원시 데이터(void)
