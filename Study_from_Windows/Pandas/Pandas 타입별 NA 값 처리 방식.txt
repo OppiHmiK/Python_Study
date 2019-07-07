@@ -1,0 +1,6 @@
+타입 클래스 : NA 값을 저장할 때의 변환 : NA 센티널 값
+
+floating : 변경 없음 : np.nan
+object : 변경 없음 : None / np.nan
+integer : float64로 변환 : np.nan
+Boolean : object로 변환 : None / np.nan

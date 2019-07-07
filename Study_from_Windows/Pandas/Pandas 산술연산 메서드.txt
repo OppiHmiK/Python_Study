@@ -1,0 +1,8 @@
+파이썬 연산자 : Pandas 메서드
++ : add()
+- : subtract()
+* : mul(), multiply()
+/ : truediv(), div(), divide()
+// : floordiv()
+%  : mod()
+** : pow()
