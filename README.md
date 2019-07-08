@@ -32,4 +32,4 @@
    공학자를 위한 Python (https://wikidocs.net/book/1704)
    
  - 기타  
-   예제로 배우는 Python 프로그래밍 (http://pythonstudy.xyz/python/article/205-JSON-%EB%8D%B0%EC%9D%B4%ED%83%80)
+   예제로 배우는 Python 프로그래밍 (http://pythonstudy.xyz/)
