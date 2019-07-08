@@ -19,7 +19,8 @@
 - Beautiful Soup  
   파이썬을 이용한 머신러닝, 딥러닝 실전 개발 입문 (위키 북스 쿠지라 히코우즈쿠에 저 / 윤인성 역)  
   잔재미 코딩 (https://www.fun-coding.org/)  
-  파이썬 레시피-웹 활용 입문편 (https://wikidocs.net/book/2965)
+  파이썬 레시피-웹 활용 입문편 (https://wikidocs.net/book/2965)  
+  왕초보! 파이썬 배워 크롤러 DIY하다! (더 알음 서진수, 최경우 공저)  
   
  - Selenium  
    잔재미 코딩 (https://www.fun-coding.org/)  
