@@ -26,7 +26,7 @@
    파이썬 레시피-웹 활용 입문편 (https://wikidocs.net/book/2965)  
  
  - PyQt5  
-   Youtube 컴노니 (https://www.youtube.com/watch?v=LYu5x339USM)
+   Youtube 컴노니 (https://www.youtube.com/watch?v=LYu5x339USM)  
    파이썬으로 배우는 알고리즘 트레이딩 (4쇄) (https://wikidocs.net/book/110)
  - TTS  
    공학자를 위한 Python (https://wikidocs.net/book/1704)
