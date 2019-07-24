@@ -60,20 +60,23 @@ print(print_multiples(-1))
 
 # Ex.4-1
 def print_muliplication_table():
-    for rep in range(1, 10):
-        print(print_multiples(rep))
+    print(print_multiples(2))
+    print(print_multiples(3))
+    print(print_multiples(4))
+    print(print_multiples(5))
+    print(print_multiples(6))
+    print(print_multiples(7))
+    print(print_multiples(8))
+    print(print_multiples(9))
 
-print(print_muliplication_table())
+print_muliplication_table()
 
 # Ex.5
 circumference = lambda radius: 2*pi*radius
 area = lambda radius: pi*radius**2
 
-def sum_of_areas(*radius):
-    total_area = 0
-    for rep in radius:
-         total_area += area(rep)
-    return total_area
+def sum_of_areas(rad1, rad2 = 0, rad3 = 0):
+    return area(rad1) + area(rad2) + area(rad3)
 
 r = 3.0
 print(circumference(r), area(r))
@@ -174,7 +177,6 @@ def BMI():
     elif (BMI >= 25.0) and (BMI < 30.0): return '비만'
     elif BMI >= 30.0: return '고도비만'
 
-print(BMI())
 print(BMI())
 
 
