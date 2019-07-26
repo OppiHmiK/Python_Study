@@ -57,17 +57,23 @@ determine(num)
 def manage_account(balance, choice, money):
     if choice == '+':
         print(balance + money)
+        return balance + money
     elif choice == '-':
         if (balance - money) < 0:
             print('잔액이 부족합니다.')
+            return balance
         else:
             print(balance - money)
+            return balance - money
     else:
         print('Error!')
+        return balance
 
 balance = 10000
-bal = manage_account(balance, '-', 20000)
-bal2 = manage_account(balance, '-', 5000)
-bal3 = manage_account(balance, '=', 2000)
-bal4 = manage_account(balance, '+', 1000)
+balance = manage_account(balance, '-', 20000)
+balance = manage_account(balance, '-', 5000)
+balance = manage_account(balance, '=', 2000)
+balance = manage_account(balance, '+', 1000)
 '''
+
+
