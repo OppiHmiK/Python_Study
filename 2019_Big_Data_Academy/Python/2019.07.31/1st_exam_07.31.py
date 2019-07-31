@@ -1,5 +1,5 @@
 # -*- coding : utf-8 -*-
-# NOTE : 모듈
+# NOTE : 모듈 #
 
 from mod1 import add
 print(add(2,9))
