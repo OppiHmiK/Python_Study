@@ -1,6 +1,6 @@
 # -*- coding : utf-8 -*-
 
-# Ex.1
+# Ex.1 #
 def print_multiples(number):
 
     if (number >= 1) and (number <=9):
